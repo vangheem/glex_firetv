@@ -5,7 +5,7 @@
         Model: JSONMediaModel,
         PlayerView: PlayerView,
         PlaylistView: PlaylistPlayerView,
-        dataURL: "https://glex.nathanvangheem.com/@firetv",
+        dataURL: "https://glex.nathanvangheem.com/@firetv?token=foobar",
         showSearch: true,
         displayButtons:false,
         skipLength: 10,
